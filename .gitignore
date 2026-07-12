@@ -1,3 +1,16 @@
 ws_ros2/build
 ws_ros2/install
 ws_ros2/log
+# ROS 2 generated files
+ws_ros2/build/
+ws_ros2/install/
+ws_ros2/log/
+
+# Python cache
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Temporary and flight log files
+*.before_lxml_fix
+*.ulg
