@@ -37,6 +37,7 @@ setup(
             'offboard_wide_gate_traversal_v1 = my_offboard_ctrl.offboard_wide_gate_traversal_v1:main',
             'offboard_wide_gate_traversal_v2 = my_offboard_ctrl.offboard_wide_gate_traversal_v2:main',
             'offboard_wide_gate_traversal_v3 = my_offboard_ctrl.offboard_wide_gate_traversal_v3:main',
+            'offboard_wide_gate_traversal_v4 = my_offboard_ctrl.offboard_wide_gate_traversal_v4:main',
             'offboard_wide_gate_pre_gate_check = my_offboard_ctrl.offboard_wide_gate_pre_gate_check:main',
         ],
     },
